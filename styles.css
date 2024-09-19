@@ -1,0 +1,63 @@
+body {
+    background-color: #b48a6d;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: #e5cdbd;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.about-section, .experience-section, .skills-section {
+    margin-top: 20px;
+}
+
+.image-container {
+    text-align: center;
+}
+
+.profile-pic {
+    width: 250px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.title-text {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.subtitle-text {
+    font-size: 24px;
+    color: #333;
+}
+
+.personal-info, .about-section, .experience-section, .skills-section {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.info-text {
+    font-size: 18px;
+}
+
+.about-text {
+    font-size: 16px;
+}
+
+.skills-section ul, .experience-section ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.skills-section li, .experience-section li {
+    padding: 5px 0;
+}
+
+.section-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
