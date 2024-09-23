@@ -34,7 +34,7 @@ body {
 }
 
 .personal-info, .about-section, .experience-section, .skills-section {
-    background-color: #fff;
+    background-color: rgb(251, 233, 199);
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
